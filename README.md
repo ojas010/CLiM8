@@ -1,4 +1,4 @@
-# clim8new
+# CLiM8
 
 A new Flutter project.
 
